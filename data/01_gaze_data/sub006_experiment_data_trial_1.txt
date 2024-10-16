@@ -1,0 +1,73 @@
+Participant ID: sub006 
+billboard_image_1 views: 0     total time: 0        avg time: 0       
+billboard_image_10 views: 0     total time: 0        avg time: 0       
+billboard_image_11 views: 2     total time: 1.31     avg time: 0.66    
+billboard_image_12 views: 0     total time: 0        avg time: 0       
+billboard_image_13 views: 0     total time: 0        avg time: 0       
+billboard_image_14 views: 1     total time: 0.44     avg time: 0.44    
+billboard_image_15 views: 1     total time: 1.32     avg time: 1.32    
+billboard_image_16 views: 0     total time: 0        avg time: 0       
+billboard_image_17 views: 0     total time: 0        avg time: 0       
+billboard_image_18 views: 3     total time: 4.5      avg time: 1.5     
+billboard_image_19 views: 0     total time: 0        avg time: 0       
+billboard_image_2 views: 0     total time: 0        avg time: 0       
+billboard_image_20 views: 0     total time: 0        avg time: 0       
+billboard_image_21 views: 6     total time: 3.12     avg time: 0.52    
+billboard_image_22 views: 3     total time: 1.38     avg time: 0.46    
+billboard_image_23 views: 1     total time: 0.7      avg time: 0.7     
+billboard_image_24 views: 1     total time: 0.37     avg time: 0.37    
+billboard_image_25 views: 1     total time: 0.43     avg time: 0.43    
+billboard_image_26 views: 0     total time: 0        avg time: 0       
+billboard_image_27 views: 0     total time: 0        avg time: 0       
+billboard_image_28 views: 0     total time: 0        avg time: 0       
+billboard_image_29 views: 0     total time: 0        avg time: 0       
+billboard_image_3 views: 0     total time: 0        avg time: 0       
+billboard_image_30 views: 0     total time: 0        avg time: 0       
+billboard_image_31 views: 0     total time: 0        avg time: 0       
+billboard_image_32 views: 1     total time: 0.43     avg time: 0.43    
+billboard_image_33 views: 0     total time: 0        avg time: 0       
+billboard_image_34 views: 0     total time: 0        avg time: 0       
+billboard_image_35 views: 0     total time: 0        avg time: 0       
+billboard_image_36 views: 4     total time: 2.86     avg time: 0.71    
+billboard_image_37 views: 0     total time: 0        avg time: 0       
+billboard_image_38 views: 0     total time: 0        avg time: 0       
+billboard_image_39 views: 0     total time: 0        avg time: 0       
+billboard_image_4 views: 0     total time: 0        avg time: 0       
+billboard_image_40 views: 2     total time: 1.47     avg time: 0.73    
+billboard_image_5 views: 0     total time: 0        avg time: 0       
+billboard_image_6 views: 0     total time: 0        avg time: 0       
+billboard_image_7 views: 0     total time: 0        avg time: 0       
+billboard_image_8 views: 3     total time: 2.14     avg time: 0.71    
+billboard_image_9 views: 0     total time: 0        avg time: 0       
+check_gaze     views: 4     total time: 2.39     avg time: 0.6     
+
+Time line: 
+billboard_image_8 37.14 
+billboard_image_8 37.94 
+billboard_image_8 38.48 
+billboard_image_6 49.02 
+billboard_image_6 49.78 
+billboard_image_14 72.90 
+billboard_image_5 74.65 
+billboard_image_18 84.10 
+billboard_image_18 87.26 
+billboard_image_18 89.09 
+billboard_image_21 95.46 
+billboard_image_21 96.62 
+billboard_image_21 97.68 
+billboard_image_21 98.75 
+billboard_image_21 100.22 
+billboard_image_21 101.28 
+billboard_image_22 104.80 
+billboard_image_22 105.71 
+billboard_image_22 106.48 
+billboard_image_23 109.10 
+billboard_image_19 115.93 
+billboard_image_20 126.41 
+billboard_image_32 152.99 
+billboard_image_36 159.18 
+billboard_image_36 167.51 
+billboard_image_36 168.62 
+billboard_image_36 169.10 
+billboard_image_30 172.07 
+billboard_image_30 179.93 
