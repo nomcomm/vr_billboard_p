@@ -1,0 +1,15 @@
+Participant ID: sub015
+passed_billboard_index_list: 
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 
+passed_fixated_first_list: 
+billboard_image_21, billboard_image_24, billboard_image_36, 
+passed_fixated_incepted_list: 
+billboard_image_3, billboard_image_25, 
+repeated_forgone_list: 
+billboard_image_1, billboard_image_4, billboard_image_5, billboard_image_7, billboard_image_23, 
+forgone_list: 
+billboard_image_2, billboard_image_26, billboard_image_27, billboard_image_31, 
+passed_list: 
+billboard_image_1, billboard_image_2, billboard_image_3, billboard_image_4, billboard_image_5, billboard_image_1, billboard_image_7, billboard_image_3, billboard_image_4, billboard_image_5, billboard_image_1, billboard_image_7, billboard_image_3, billboard_image_4, billboard_image_5, billboard_image_1, billboard_image_7, billboard_image_3, billboard_image_4, billboard_image_5, billboard_image_21, billboard_image_7, billboard_image_23, billboard_image_24, billboard_image_25, billboard_image_26, billboard_image_27, billboard_image_23, billboard_image_29, billboard_image_25, billboard_image_31, billboard_image_32, billboard_image_23, billboard_image_29, billboard_image_25, billboard_image_36, billboard_image_32, billboard_image_23, billboard_image_29, billboard_image_25, 
+glanced_list: 
+billboard_image_5, billboard_image_7, billboard_image_4, billboard_image_5, billboard_image_3, billboard_image_3, billboard_image_3, billboard_image_21, billboard_image_21, billboard_image_21, billboard_image_21, billboard_image_21, billboard_image_21, billboard_image_25, billboard_image_21, billboard_image_21, billboard_image_21, billboard_image_24, billboard_image_25, billboard_image_24, billboard_image_24, billboard_image_25, billboard_image_25, billboard_image_24, billboard_image_24, billboard_image_24, billboard_image_24, billboard_image_25, billboard_image_23, billboard_image_30, billboard_image_23, billboard_image_36, billboard_image_36, billboard_image_23, billboard_image_23, billboard_image_36, billboard_image_36, billboard_image_23, billboard_image_23, billboard_image_23, billboard_image_23, billboard_image_29, billboard_image_29, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, billboard_image_25, 
