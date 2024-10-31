@@ -1,0 +1,92 @@
+Participant ID: sub021 
+billboard_image_1 views: 0     total time: 0        avg time: 0       
+billboard_image_10 views: 1     total time: 0.31     avg time: 0.31    
+billboard_image_11 views: 1     total time: 0.59     avg time: 0.59    
+billboard_image_12 views: 0     total time: 0        avg time: 0       
+billboard_image_13 views: 4     total time: 1.82     avg time: 0.46    
+billboard_image_14 views: 0     total time: 0        avg time: 0       
+billboard_image_15 views: 4     total time: 4.19     avg time: 1.05    
+billboard_image_16 views: 0     total time: 0        avg time: 0       
+billboard_image_17 views: 0     total time: 0        avg time: 0       
+billboard_image_18 views: 4     total time: 2.1      avg time: 0.53    
+billboard_image_19 views: 1     total time: 0.31     avg time: 0.31    
+billboard_image_2 views: 0     total time: 0        avg time: 0       
+billboard_image_20 views: 0     total time: 0        avg time: 0       
+billboard_image_21 views: 2     total time: 2.07     avg time: 1.03    
+billboard_image_22 views: 1     total time: 0.38     avg time: 0.38    
+billboard_image_23 views: 3     total time: 1.58     avg time: 0.53    
+billboard_image_24 views: 4     total time: 1.58     avg time: 0.4     
+billboard_image_25 views: 2     total time: 1.04     avg time: 0.52    
+billboard_image_26 views: 3     total time: 2.86     avg time: 0.95    
+billboard_image_27 views: 2     total time: 0.78     avg time: 0.39    
+billboard_image_28 views: 4     total time: 1.86     avg time: 0.47    
+billboard_image_29 views: 0     total time: 0        avg time: 0       
+billboard_image_3 views: 0     total time: 0        avg time: 0       
+billboard_image_30 views: 1     total time: 0.48     avg time: 0.48    
+billboard_image_31 views: 1     total time: 0.35     avg time: 0.35    
+billboard_image_32 views: 0     total time: 0        avg time: 0       
+billboard_image_33 views: 1     total time: 0.28     avg time: 0.28    
+billboard_image_34 views: 0     total time: 0        avg time: 0       
+billboard_image_35 views: 0     total time: 0        avg time: 0       
+billboard_image_36 views: 2     total time: 1.0      avg time: 0.5     
+billboard_image_37 views: 0     total time: 0        avg time: 0       
+billboard_image_38 views: 2     total time: 0.76     avg time: 0.38    
+billboard_image_39 views: 0     total time: 0        avg time: 0       
+billboard_image_4 views: 0     total time: 0        avg time: 0       
+billboard_image_40 views: 3     total time: 1.93     avg time: 0.64    
+billboard_image_5 views: 0     total time: 0        avg time: 0       
+billboard_image_6 views: 1     total time: 0.54     avg time: 0.54    
+billboard_image_7 views: 1     total time: 0.32     avg time: 0.32    
+billboard_image_8 views: 0     total time: 0        avg time: 0       
+billboard_image_9 views: 0     total time: 0        avg time: 0       
+check_gaze     views: 7     total time: 6.33     avg time: 0.9     
+
+Time line: 
+billboard_image_7 27.30 
+billboard_image_6 31.44 
+billboard_image_5 43.41 
+billboard_image_11 45.05 
+billboard_image_3 54.33 
+billboard_image_3 54.76 
+billboard_image_15 56.61 
+billboard_image_3 57.78 
+billboard_image_3 58.71 
+billboard_image_15 59.13 
+billboard_image_15 62.42 
+billboard_image_15 63.96 
+billboard_image_18 67.53 
+billboard_image_18 75.62 
+billboard_image_18 77.98 
+billboard_image_18 79.87 
+billboard_image_23 81.18 
+billboard_image_4 84.34 
+billboard_image_21 89.55 
+billboard_image_21 90.26 
+billboard_image_23 91.70 
+billboard_image_23 94.20 
+billboard_image_24 95.26 
+billboard_image_17 95.64 
+billboard_image_24 100.60 
+billboard_image_24 101.94 
+billboard_image_24 104.16 
+billboard_image_26 105.63 
+billboard_image_25 106.97 
+billboard_image_26 107.88 
+billboard_image_26 108.22 
+billboard_image_28 109.73 
+billboard_image_25 111.83 
+billboard_image_27 116.15 
+billboard_image_27 117.94 
+billboard_image_28 118.96 
+billboard_image_28 120.97 
+billboard_image_28 122.90 
+billboard_image_30 131.85 
+billboard_image_31 133.15 
+billboard_image_33 139.85 
+billboard_image_36 143.80 
+billboard_image_36 151.98 
+billboard_image_38 154.95 
+billboard_image_38 161.96 
+billboard_image_40 164.54 
+billboard_image_40 165.23 
+billboard_image_40 165.54 

@@ -1,0 +1,731 @@
+Participant ID: sub018
+Surpassed Billboard Index #: 
+1
+Last Billboard passed #: 
+billboard_image_1
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+2
+Last Billboard passed #: 
+billboard_image_2
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_2
+resources/billboards/vaccination.bmp
+before bbname update
+billboard_image_7
+after bbname update
+billboard_image_2
+##################
+Surpassed Billboard Index #: 
+3
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_3
+resources/billboards/binge_drinking.bmp
+before bbname update
+billboard_image_8
+after bbname update
+billboard_image_3
+##################
+Surpassed Billboard Index #: 
+4
+Last Billboard passed #: 
+billboard_image_4
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+5
+Last Billboard passed #: 
+billboard_image_5
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_5
+resources/billboards/pet_store.bmp
+before bbname update
+billboard_image_10
+after bbname update
+billboard_image_5
+##################
+Surpassed Billboard Index #: 
+6
+Last Billboard passed #: 
+billboard_image_6
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_6
+resources/billboards/clothes_sale.bmp
+before bbname update
+billboard_image_11
+after bbname update
+billboard_image_6
+##################
+Surpassed Billboard Index #: 
+7
+Last Billboard passed #: 
+billboard_image_2
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_12
+swapping bb at ahead position:
+billboard_image_2
+resources/billboards/vaccination.bmp
+before bbname update
+billboard_image_12
+after bbname update
+billboard_image_2
+##################
+Surpassed Billboard Index #: 
+8
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_13
+swapping bb at ahead position:
+billboard_image_3
+resources/billboards/binge_drinking.bmp
+before bbname update
+billboard_image_13
+after bbname update
+billboard_image_3
+##################
+Surpassed Billboard Index #: 
+9
+Last Billboard passed #: 
+billboard_image_9
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+10
+Last Billboard passed #: 
+billboard_image_5
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_15
+swapping bb at ahead position:
+billboard_image_5
+resources/billboards/pet_store.bmp
+before bbname update
+billboard_image_15
+after bbname update
+billboard_image_5
+##################
+Surpassed Billboard Index #: 
+11
+Last Billboard passed #: 
+billboard_image_6
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_16
+swapping bb at ahead position:
+billboard_image_6
+resources/billboards/clothes_sale.bmp
+before bbname update
+billboard_image_16
+after bbname update
+billboard_image_6
+##################
+Surpassed Billboard Index #: 
+12
+Last Billboard passed #: 
+billboard_image_2
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_1
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_17
+swapping bb at ahead position:
+billboard_image_2
+resources/billboards/vaccination.bmp
+before bbname update
+billboard_image_17
+after bbname update
+billboard_image_2
+##################
+Surpassed Billboard Index #: 
+13
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_18
+swapping bb at ahead position:
+billboard_image_3
+resources/billboards/binge_drinking.bmp
+before bbname update
+billboard_image_18
+after bbname update
+billboard_image_3
+##################
+Surpassed Billboard Index #: 
+14
+Last Billboard passed #: 
+billboard_image_14
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+15
+Last Billboard passed #: 
+billboard_image_5
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_20
+swapping bb at ahead position:
+billboard_image_5
+resources/billboards/pet_store.bmp
+before bbname update
+billboard_image_20
+after bbname update
+billboard_image_5
+##################
+Surpassed Billboard Index #: 
+16
+Last Billboard passed #: 
+billboard_image_6
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_21
+swapping bb at ahead position:
+billboard_image_6
+resources/billboards/clothes_sale.bmp
+before bbname update
+billboard_image_21
+after bbname update
+billboard_image_6
+##################
+Surpassed Billboard Index #: 
+17
+Last Billboard passed #: 
+billboard_image_2
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+18
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_14
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+19
+Last Billboard passed #: 
+billboard_image_19
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_5
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+20
+Last Billboard passed #: 
+billboard_image_5
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_5
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+21
+Last Billboard passed #: 
+billboard_image_6
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_5
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+22
+Last Billboard passed #: 
+billboard_image_22
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_5
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_22
+resources/billboards/burger.bmp
+before bbname update
+billboard_image_27
+after bbname update
+billboard_image_22
+##################
+Surpassed Billboard Index #: 
+23
+Last Billboard passed #: 
+billboard_image_23
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_23
+resources/billboards/fundraising.bmp
+before bbname update
+billboard_image_28
+after bbname update
+billboard_image_23
+##################
+Surpassed Billboard Index #: 
+24
+Last Billboard passed #: 
+billboard_image_24
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_24
+resources/billboards/grocery_store.bmp
+before bbname update
+billboard_image_29
+after bbname update
+billboard_image_24
+##################
+Surpassed Billboard Index #: 
+25
+Last Billboard passed #: 
+billboard_image_25
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_25
+resources/billboards/jogging_physical_activity.bmp
+before bbname update
+billboard_image_30
+after bbname update
+billboard_image_25
+##################
+Surpassed Billboard Index #: 
+26
+Last Billboard passed #: 
+billboard_image_26
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_26
+resources/billboards/cosmetics.bmp
+before bbname update
+billboard_image_31
+after bbname update
+billboard_image_26
+##################
+Surpassed Billboard Index #: 
+27
+Last Billboard passed #: 
+billboard_image_22
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_32
+swapping bb at ahead position:
+billboard_image_22
+resources/billboards/burger.bmp
+before bbname update
+billboard_image_32
+after bbname update
+billboard_image_22
+##################
+Surpassed Billboard Index #: 
+28
+Last Billboard passed #: 
+billboard_image_23
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_22
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_33
+swapping bb at ahead position:
+billboard_image_23
+resources/billboards/fundraising.bmp
+before bbname update
+billboard_image_33
+after bbname update
+billboard_image_23
+##################
+Surpassed Billboard Index #: 
+29
+Last Billboard passed #: 
+billboard_image_24
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_34
+swapping bb at ahead position:
+billboard_image_24
+resources/billboards/grocery_store.bmp
+before bbname update
+billboard_image_34
+after bbname update
+billboard_image_24
+##################
+Surpassed Billboard Index #: 
+30
+Last Billboard passed #: 
+billboard_image_25
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_35
+swapping bb at ahead position:
+billboard_image_25
+resources/billboards/jogging_physical_activity.bmp
+before bbname update
+billboard_image_35
+after bbname update
+billboard_image_25
+##################
+Surpassed Billboard Index #: 
+31
+Last Billboard passed #: 
+billboard_image_26
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+1
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_36
+swapping bb at ahead position:
+billboard_image_26
+resources/billboards/cosmetics.bmp
+before bbname update
+billboard_image_36
+after bbname update
+billboard_image_26
+##################
+Surpassed Billboard Index #: 
+32
+Last Billboard passed #: 
+billboard_image_22
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_37
+swapping bb at ahead position:
+billboard_image_22
+resources/billboards/burger.bmp
+before bbname update
+billboard_image_37
+after bbname update
+billboard_image_22
+##################
+Surpassed Billboard Index #: 
+33
+Last Billboard passed #: 
+billboard_image_23
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_38
+swapping bb at ahead position:
+billboard_image_23
+resources/billboards/fundraising.bmp
+before bbname update
+billboard_image_38
+after bbname update
+billboard_image_23
+##################
+Surpassed Billboard Index #: 
+34
+Last Billboard passed #: 
+billboard_image_24
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_39
+swapping bb at ahead position:
+billboard_image_24
+resources/billboards/grocery_store.bmp
+before bbname update
+billboard_image_39
+after bbname update
+billboard_image_24
+##################
+Surpassed Billboard Index #: 
+35
+Last Billboard passed #: 
+billboard_image_25
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+position ahead 
+billboard_image_40
+swapping bb at ahead position:
+billboard_image_25
+resources/billboards/jogging_physical_activity.bmp
+before bbname update
+billboard_image_40
+after bbname update
+billboard_image_25
+##################
+Surpassed Billboard Index #: 
+36
+Last Billboard passed #: 
+billboard_image_26
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+2
+...appending to inception list because multiple chances
+Surpassed Billboard Index #: 
+37
+Last Billboard passed #: 
+billboard_image_22
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+38
+Last Billboard passed #: 
+billboard_image_23
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+39
+Last Billboard passed #: 
+billboard_image_24
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
+Surpassed Billboard Index #: 
+40
+Last Billboard passed #: 
+billboard_image_25
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+billboard_image_25
+passed a billboard but didnt fixated, hence ...
+it is already in the inception list, has been presented X times so ...
+3
+...appending to repeated forgone list (missed 3 times)
+##################
