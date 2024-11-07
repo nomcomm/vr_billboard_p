@@ -1,0 +1,451 @@
+Participant ID: sub033
+Surpassed Billboard Index #: 
+1
+Last Billboard passed #: 
+billboard_image_1
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+[]
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_1
+resources/billboards/HIV.bmp
+before bbname update
+billboard_image_6
+after bbname update
+billboard_image_1
+##################
+Surpassed Billboard Index #: 
+2
+Last Billboard passed #: 
+billboard_image_2
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+[]
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+3
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+[]
+Last Billboard glanced #: 
+[]
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_3
+resources/billboards/pizza.bmp
+before bbname update
+billboard_image_8
+after bbname update
+billboard_image_3
+##################
+Surpassed Billboard Index #: 
+4
+Last Billboard passed #: 
+billboard_image_4
+Last Billboard fixated #: 
+billboard_image_5
+Last Billboard glanced #: 
+billboard_image_5
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+position ahead 
+swapping bb at ahead position:
+billboard_image_4
+resources/billboards/regular_doctor_visits.bmp
+before bbname update
+billboard_image_9
+after bbname update
+billboard_image_4
+##################
+Surpassed Billboard Index #: 
+5
+Last Billboard passed #: 
+billboard_image_5
+Last Billboard fixated #: 
+billboard_image_1
+Last Billboard glanced #: 
+billboard_image_1
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+6
+Last Billboard passed #: 
+billboard_image_1
+Last Billboard fixated #: 
+billboard_image_1
+Last Billboard glanced #: 
+billboard_image_1
+fixated a billboard in fixated list  - fixated a billboard that was incepted
+##################
+Surpassed Billboard Index #: 
+7
+Last Billboard passed #: 
+billboard_image_7
+Last Billboard fixated #: 
+billboard_image_4
+Last Billboard glanced #: 
+billboard_image_3
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+8
+Last Billboard passed #: 
+billboard_image_3
+Last Billboard fixated #: 
+billboard_image_3
+Last Billboard glanced #: 
+billboard_image_4
+fixated a billboard in fixated list  - fixated a billboard that was incepted
+##################
+Surpassed Billboard Index #: 
+9
+Last Billboard passed #: 
+billboard_image_4
+Last Billboard fixated #: 
+billboard_image_10
+Last Billboard glanced #: 
+billboard_image_10
+fixated a billboard in fixated list  - fixated a billboard that was incepted
+##################
+Surpassed Billboard Index #: 
+10
+Last Billboard passed #: 
+billboard_image_10
+Last Billboard fixated #: 
+billboard_image_10
+Last Billboard glanced #: 
+billboard_image_10
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+11
+Last Billboard passed #: 
+billboard_image_11
+Last Billboard fixated #: 
+billboard_image_11
+Last Billboard glanced #: 
+billboard_image_11
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+12
+Last Billboard passed #: 
+billboard_image_12
+Last Billboard fixated #: 
+billboard_image_13
+Last Billboard glanced #: 
+billboard_image_13
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+13
+Last Billboard passed #: 
+billboard_image_13
+Last Billboard fixated #: 
+billboard_image_15
+Last Billboard glanced #: 
+billboard_image_15
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+14
+Last Billboard passed #: 
+billboard_image_14
+Last Billboard fixated #: 
+billboard_image_15
+Last Billboard glanced #: 
+billboard_image_15
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+15
+Last Billboard passed #: 
+billboard_image_15
+Last Billboard fixated #: 
+billboard_image_15
+Last Billboard glanced #: 
+billboard_image_18
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+16
+Last Billboard passed #: 
+billboard_image_16
+Last Billboard fixated #: 
+billboard_image_15
+Last Billboard glanced #: 
+billboard_image_18
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+17
+Last Billboard passed #: 
+billboard_image_17
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_21
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+18
+Last Billboard passed #: 
+billboard_image_18
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_21
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+19
+Last Billboard passed #: 
+billboard_image_19
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_20
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+20
+Last Billboard passed #: 
+billboard_image_20
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_20
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+21
+Last Billboard passed #: 
+billboard_image_21
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_20
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+22
+Last Billboard passed #: 
+billboard_image_22
+Last Billboard fixated #: 
+billboard_image_21
+Last Billboard glanced #: 
+billboard_image_20
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+23
+Last Billboard passed #: 
+billboard_image_23
+Last Billboard fixated #: 
+billboard_image_24
+Last Billboard glanced #: 
+billboard_image_24
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+24
+Last Billboard passed #: 
+billboard_image_24
+Last Billboard fixated #: 
+billboard_image_24
+Last Billboard glanced #: 
+billboard_image_26
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+25
+Last Billboard passed #: 
+billboard_image_25
+Last Billboard fixated #: 
+billboard_image_26
+Last Billboard glanced #: 
+billboard_image_26
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+26
+Last Billboard passed #: 
+billboard_image_26
+Last Billboard fixated #: 
+billboard_image_26
+Last Billboard glanced #: 
+billboard_image_26
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+27
+Last Billboard passed #: 
+billboard_image_27
+Last Billboard fixated #: 
+billboard_image_28
+Last Billboard glanced #: 
+billboard_image_28
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+28
+Last Billboard passed #: 
+billboard_image_28
+Last Billboard fixated #: 
+billboard_image_29
+Last Billboard glanced #: 
+billboard_image_29
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+29
+Last Billboard passed #: 
+billboard_image_29
+Last Billboard fixated #: 
+billboard_image_29
+Last Billboard glanced #: 
+billboard_image_29
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+30
+Last Billboard passed #: 
+billboard_image_30
+Last Billboard fixated #: 
+billboard_image_30
+Last Billboard glanced #: 
+billboard_image_30
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+31
+Last Billboard passed #: 
+billboard_image_31
+Last Billboard fixated #: 
+billboard_image_31
+Last Billboard glanced #: 
+billboard_image_31
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+32
+Last Billboard passed #: 
+billboard_image_32
+Last Billboard fixated #: 
+billboard_image_32
+Last Billboard glanced #: 
+billboard_image_32
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+33
+Last Billboard passed #: 
+billboard_image_33
+Last Billboard fixated #: 
+billboard_image_36
+Last Billboard glanced #: 
+billboard_image_36
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+34
+Last Billboard passed #: 
+billboard_image_34
+Last Billboard fixated #: 
+billboard_image_36
+Last Billboard glanced #: 
+billboard_image_36
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+35
+Last Billboard passed #: 
+billboard_image_35
+Last Billboard fixated #: 
+billboard_image_36
+Last Billboard glanced #: 
+billboard_image_35
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to forgone list
+##################
+Surpassed Billboard Index #: 
+36
+Last Billboard passed #: 
+billboard_image_36
+Last Billboard fixated #: 
+billboard_image_38
+Last Billboard glanced #: 
+billboard_image_38
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+37
+Last Billboard passed #: 
+billboard_image_37
+Last Billboard fixated #: 
+billboard_image_38
+Last Billboard glanced #: 
+billboard_image_38
+passed a billboard but didnt fixated, hence ...
+this was the first time it was missed ...
+...appending to inception list
+##################
+Surpassed Billboard Index #: 
+38
+Last Billboard passed #: 
+billboard_image_38
+Last Billboard fixated #: 
+billboard_image_40
+Last Billboard glanced #: 
+billboard_image_40
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+39
+Last Billboard passed #: 
+billboard_image_39
+Last Billboard fixated #: 
+billboard_image_40
+Last Billboard glanced #: 
+billboard_image_40
+fixated a billboard on the first passing
+##################
+Surpassed Billboard Index #: 
+40
+Last Billboard passed #: 
+billboard_image_40
+Last Billboard fixated #: 
+billboard_image_40
+Last Billboard glanced #: 
+billboard_image_40
+fixated a billboard on the first passing
+##################
