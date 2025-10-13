@@ -26,4 +26,4 @@ Using Virtual Reality to Study Media Influence. Journal of Communication*
 -   see environment file
 
 
-2025 | {authors blinded} 
+2025 | Schmaelzle, Cho, Lim, Saenz
