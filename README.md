@@ -8,7 +8,6 @@ Using Virtual Reality to Study Media Influence. Journal of Communication*
 
 ***
 
-<img align="right" width=450px src=data/explainer_fig.png> 
 
 
 
